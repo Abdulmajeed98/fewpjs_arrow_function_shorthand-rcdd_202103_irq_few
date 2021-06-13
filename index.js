@@ -2,4 +2,7 @@ const divide = () => {
   return 2000 / 100;
 }
 
-const square = () => 
+let x = 2;
+const square = () => {
+  return x * x;
+} 
